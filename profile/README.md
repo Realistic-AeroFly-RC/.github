@@ -1,4 +1,4 @@
-en English version — AeroFly RC 8
+
 
 # AeroFly RC 8 — high-realism RC aircraft and FPV drone simulator
 
